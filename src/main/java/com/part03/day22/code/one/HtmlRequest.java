@@ -10,6 +10,9 @@ public class HtmlRequest {
     private String address;
     private String content;
 
+    public HtmlRequest() {
+    }
+
     public HtmlRequest(String url) {
     }
 
